@@ -22,7 +22,7 @@ $dataArray = array(
                 'address' => [
                         'locality' => 'Birmingham',
                         'county' => 'West Midlands',
-                        'ostcode' => 'B661BY',
+                        'postcode' => 'B661BY',
                         'countryCode' => 'GB'
                 ],
         ],
